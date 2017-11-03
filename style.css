@@ -1,0 +1,40 @@
+body{
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+header p {
+  position: absolute;
+  right:47%;
+  color: white;
+  border-top:  solid white;
+}
+form {
+  width: 310px;
+  height: 320px;
+  text-align: center;
+  background-color: white;
+  position: relative;
+  margin-top: 80px;
+  padding: 0 auto;
+}
+
+div button{
+  display: absolute;
+  background-color: black;
+  color: white;
+  font-size: 14px;
+  margin-top: 5px;
+  padding-left: 61px;
+  padding-right: 61px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+
+div span {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+
+}
